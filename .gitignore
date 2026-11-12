@@ -1,0 +1,12 @@
+# never commit raw evidence that could hold sensitive data
+*.evtx
+*.pcap
+*.pcapng
+*.log
+*.csv
+*.zip
+*.tgz
+# scratch
+*.tmp
+~$*
+Thumbs.db
