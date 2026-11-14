@@ -56,7 +56,7 @@ Severity (low / medium / high / critical) and why. Escalate to Tier 2, close, or
 
 ## 9. Incident summary
 
-Five to eight plain-English sentences a manager could read: what happened, how far it got, what was affected, what should be done.
+Five to eight plain-English sentences a manager could read, built on the Five Ws in this order: Who (user and account), What (the exact sequence of events), When (start and end times), Where (device, IP, URL or site), Why (the reasoning behind the verdict). Then what should be done.
 
 ## Lessons
 
